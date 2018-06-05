@@ -88,16 +88,15 @@ fabric.properties
 # Editor-based Rest Client
 .idea/httpRequests
 
-tests/src/main/
+
 tests/target/classes/
 tests/target/generated-test-sources/
 tests/target/maven-archiver/
 tests/target/maven-status/
-utils/src/
 utils/target/classes/
 utils/target/maven-archiver/
 utils/target/maven-status/
-web/src/
 web/target/classes/
 web/target/maven-archiver/
 web/target/maven-status/
+*.iml
