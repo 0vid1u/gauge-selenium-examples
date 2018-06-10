@@ -1,4 +1,4 @@
-package com.ovixeu.pom;
+package com.ovixeu;
 
 public class AbstractPage {
 }
